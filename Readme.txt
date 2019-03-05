@@ -1,0 +1,1 @@
+As an example, to run this program from the command line type Dishes.exe morning, 1, 2, 3
